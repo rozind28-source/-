@@ -1,0 +1,6 @@
+{
+  "name": "Расписание секций и журнал посещаемости",
+  "description": "Расписание тренировок по боксу и кикбоксингу на месяц с интеграцией в Google Таблицы и учетом посещаемости по тренерам и ФИО.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
